@@ -1,0 +1,34 @@
+$primaryColor: #FFAFF0;
+$backgroundColor: #5C5D67;
+
+h1 {
+  display: flex;
+  justify-content: center;
+  background: $backgroundColor;
+  color: $primaryColor;
+}
+
+.Clicker {
+  text-align: center;
+  max-width: 50%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  height: 40%;
+  border: 5px solid #5C5D67;
+  background: #6BA292;
+
+}
+
+.Clicker > p {
+  font-size: 50px;
+  font-weight: bold;
+  color: #FE5F55;
+
+}
+
+.Framework {
+
+}
