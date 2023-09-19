@@ -1,5 +1,4 @@
 import {Component} from 'react';
-import './clicker.css'
 import styled from "styled-components";
 
 class Clicker extends Component {
